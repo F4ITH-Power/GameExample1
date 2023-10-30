@@ -1,0 +1,4 @@
+repository "2DGame@FAITH_Power@cloud"
+  path "/"
+    br "/main"
+    co "/main"
